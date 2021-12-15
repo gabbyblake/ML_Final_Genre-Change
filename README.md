@@ -1,2 +1,5 @@
 # ML_Final_Genre-Change
-Music Genre Convertion
+
+My project was music genre conversion using Neural Style Transfer.
+
+
